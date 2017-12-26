@@ -1,2 +1,6 @@
 core
 */core
+
+# Jupyter Notebook
+.ipynb_checkpoints
+spyder_crash.log
